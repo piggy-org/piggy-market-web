@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'CGB';
+    src: url("./assets/ttf/CormorantGaramond-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'CGBT';
+    src: url("./assets/ttf/CormorantGaramond-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CBI';
+    src: url("./assets/ttf/CormorantGaramond-Italic.ttf");
+}
+
+@font-face {
+    font-family: 'CGL';
+    src: url("./assets/ttf/CormorantGaramond-Light.ttf");
+}
+
+@font-face {
+    font-family: 'CGLI';
+    src: url("./assets/ttf/CormorantGaramond-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CGM';
+    src: url("./assets/ttf/CormorantGaramond-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'CGMI';
+    src: url("./assets/ttf/CormorantGaramond-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CGR';
+    src: url("./assets/ttf/CormorantGaramond-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'CGSM';
+    src: url("./assets/ttf/CormorantGaramond-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'CGSMI';
+    src: url("./assets/ttf/CormorantGaramond-SemiBoldItalic.ttf");
+}
